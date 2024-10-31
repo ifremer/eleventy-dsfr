@@ -4,7 +4,6 @@ on:
   push:
     branches: [ "sync" ]
 
-
 jobs:
   sync:
     runs-on: ubuntu-latest
